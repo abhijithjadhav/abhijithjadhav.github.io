@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abhijitjadhav1998/portfolio/static/css/main.b2dc6ca1.css",
+    "main.js": "/abhijitjadhav1998/portfolio/static/js/main.31881337.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/abhijitjadhav1998/portfolio/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/sadak.png": "/abhijitjadhav1998/portfolio/static/media/sadak.c5a8ae3f5b8e8ab0d1c3.png",
+    "static/media/nalahotel.png": "/abhijitjadhav1998/portfolio/static/media/nalahotel.c80d973a3add67853860.png",
+    "static/media/alshifa.png": "/abhijitjadhav1998/portfolio/static/media/alshifa.266a10aff854d387e7bc.png",
+    "static/media/nansei.png": "/abhijitjadhav1998/portfolio/static/media/nansei.47b9a977c6fd1f699c0f.png",
+    "static/media/agami.png": "/abhijitjadhav1998/portfolio/static/media/agami.aca24f12e7c5d579d787.png",
+    "static/media/Agustina.woff": "/abhijitjadhav1998/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/hero.png": "/abhijitjadhav1998/portfolio/static/media/hero.6c88a9ef8f719f9e7c4e.png",
+    "static/media/about.png": "/abhijitjadhav1998/portfolio/static/media/about.c7dc71549af5bb52dc2e.png",
+    "static/media/admission.png": "/abhijitjadhav1998/portfolio/static/media/admission.a3aa2788ef7972522328.png",
+    "static/media/logo.svg": "/abhijitjadhav1998/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abhijitjadhav1998/portfolio/index.html",
+    "main.b2dc6ca1.css.map": "/abhijitjadhav1998/portfolio/static/css/main.b2dc6ca1.css.map",
+    "main.31881337.js.map": "/abhijitjadhav1998/portfolio/static/js/main.31881337.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/abhijitjadhav1998/portfolio/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2dc6ca1.css",
+    "static/js/main.31881337.js"
+  ]
+}
