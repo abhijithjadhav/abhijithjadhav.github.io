@@ -65,7 +65,12 @@ img {
 section {
   padding: 50px 0 50px 0;
 }
-
+#blogs{
+  padding: 50px 0 50px 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
 .title {
   text-align: center;
   font-size: 30px;

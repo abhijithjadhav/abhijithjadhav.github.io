@@ -7,6 +7,7 @@ import Skills from './Component/Skills';
 import Portfolio from './Component/Portfolio';
 import Contact from './Component/Contact';
 import Footer from './Component/Footer';
+import Blogs from "./Component/Blogs";
 import sun from './img/sun.png';
 import moon from './img/moon.png';
 
@@ -18,6 +19,7 @@ function App() {
       <Experience />
       <Skills width='50%' />
       <Portfolio />
+      <Blogs />
       <Contact />
       <Footer />
     </div>
