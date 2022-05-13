@@ -16,7 +16,7 @@ function App() {
       <Home />
       <About />
       <Experience />
-      <Skills width='50%'/>
+      <Skills width='50%' />
       <Portfolio />
       <Contact />
       <Footer />
