@@ -48,7 +48,7 @@ function Home() {
                   <a className='nav-link' href='#skills'><i className='uil uil-react'></i> Skills</a>
                 </li>
                 <li className='nav-item'>
-                  <a className='nav-link' href='#portfolio'><i className='uil uil-window-grid'></i> Portfolio</a>
+                  <a className='nav-link' href='#portfolio'><i className='uil uil-window-grid'></i> Projects</a>
                 </li>
                 <li className='nav-item'>
                   <a className='nav-link' href='#contact'><i className='uil uil-calling'></i> Contact</a>
@@ -107,12 +107,6 @@ function Home() {
               </a>
             </div>
             <div>
-              <a href='#about' className='learn-more animate__animated animate__bounceInUp'>
-                <span className='circle' aria-hidden='true'>
-                  <span className='icon arrow'></span>
-                </span>
-                <span className='button-text'>Read More</span>
-              </a>
               <a href='https://www.linkedin.com/in/abhijitjadhav1998/' className='learn-more animate__animated animate__bounceInUp'>
                 <span className='circle' aria-hidden='true'>
                   <span className='icon arrow'></span>

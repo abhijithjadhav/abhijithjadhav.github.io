@@ -9,6 +9,8 @@ const java = { width: '80%' }
 const spring = { width: '78%' }
 const microservices = { width: '75%' }
 const springCloud = { width: '70%' }
+const python = { width: '60%' }
+
 //Databases
 const mySql = { width: '70%' }
 // Devops
@@ -22,6 +24,9 @@ const mockito = { width: '75%' }
 
 // Others
 const dataStructure = { width: '60%' }
+const machinelearning = { width: '60%' }
+const deeplearning = { width: '70%' }
+
 
 
 
@@ -98,6 +103,12 @@ function Skills() {
 									<div className='skill-progress-backend' style={springCloud} data-progress='75%'></div>
 								</div>
 							</div>
+							<div className='skill'>
+								<h5 className='skill-title'>Python</h5>
+								<div className='skill-bar'>
+									<div className='skill-progress-backend' style={python} data-progress='80%'></div>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div className='col-12 col-lg-6'>
@@ -165,9 +176,21 @@ function Skills() {
 								<div className='skill-bar'>
 									<div className='skill-progress-others' style={dataStructure} data-progress='80%'></div>
 								</div>
-								<div className='skill'>
-									<h5 className='skill-title'>Maven Git Swagger</h5>
+							</div>
+							<div className='skill'>
+								<h5 className='skill-title'>Machine Learning</h5>
+								<div className='skill-bar'>
+									<div className='skill-progress-others' style={machinelearning} data-progress='80%'></div>
 								</div>
+							</div>
+							<div className='skill'>
+								<h5 className='skill-title'>Deep Learning</h5>
+								<div className='skill-bar'>
+									<div className='skill-progress-others' style={deeplearning} data-progress='80%'></div>
+								</div>
+							</div>
+							<div className='skill'>
+								<h5 className='skill-title'>Maven Git Swagger</h5>
 							</div>
 						</div>
 					</div>
