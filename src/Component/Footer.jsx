@@ -10,8 +10,11 @@ function Footer() {
                             <li><a href='https://github.com/abhijitjadhav1998' target='_blank'><i className='uil uil-github'></i></a></li>
                             <li><a href='mailto:abhijit.jadhav1998@gmail.com' target='_blank'><i className='uil uil-envelope-info'></i></a></li>
                             <li><a href='https://abhijithjadhav.medium.com/' target='_blank'><i className='uil uil-medium-m'></i></a></li>
+                            <li><p className="footer-text">Made with ❤️ by Abhijit Jadhav</p></li>
+
                         </ul>
                     </div>
+
                     <div className='col-12 col-lg-6'>
                         <div className='back-btn-wrap'>
                             <a href='#' className='back-btn'>
@@ -24,6 +27,7 @@ function Footer() {
             <a href='https://wa.me/+918446755971/' className='whatsapp-btn' target='_blank'>
                 <i className='uil uil-whatsapp my-float'></i>
             </a>
+
         </footer>
         // </main>
         // </body>

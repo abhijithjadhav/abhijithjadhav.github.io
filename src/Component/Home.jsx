@@ -7,14 +7,6 @@ import moon from '../img/moon.png';
 
 
 function Home() {
-  const socialMediaLinks = {
-
-    linkedin: "https://www.linkedin.com/in/yashmantri20",
-    github: "https://github.com/yashmantri20",
-    twitter: "https://twitter.com/yashmantri20",
-    gmail: "mantriyash2025@gmail.com",
-    instagram: "https://www.instagram.com/yashmantri/",
-  };
   return (
     <header>
 
@@ -51,6 +43,9 @@ function Home() {
                   <a className='nav-link' href='#portfolio'><i className='uil uil-window-grid'></i> Projects</a>
                 </li>
                 <li className='nav-item'>
+                  <a className='nav-link' href='#blogs'><i className='uil  uil-book-reader'></i> Blogs</a>
+                </li>
+                <li className='nav-item'>
                   <a className='nav-link' href='#contact'><i className='uil uil-calling'></i> Contact</a>
                 </li>
                 <li className='nav-item'>
@@ -79,11 +74,14 @@ function Home() {
                   1000,
                   "Content Writer",
                   1000,
+                  "AI Enthusiast",
+                  1000,
                 ]}
               />
             </h1>
             <p className='pt-10 animate__animated animate__bounceInRight'>
-              A passionate Java Developer having an experience of building Full Stack Web Application...
+              A passionate Java Developer having an experience of building Full Stack Web Application...<br /><br />
+              Loves to solve real world problems with latest tech stack.
             </p>
             <div className="social-media-div">
 

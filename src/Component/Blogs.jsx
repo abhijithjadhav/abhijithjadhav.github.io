@@ -7,7 +7,7 @@ export default function Blogs() {
   return (
     <div className="main" id="blogs">
       <div className="title">
-        <h1 className="blog-header-text">{blogSection.title} ✒️</h1>
+        <h1 className="title">{blogSection.title} ✒️</h1>
         <div className='title-bar'></div>
       </div>
       <div className="blog-main-div">
