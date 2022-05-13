@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/abhijitjadhav1998/portfolio/static/css/main.d71eadac.css",
-    "main.js": "/abhijitjadhav1998/portfolio/static/js/main.31881337.js",
-    "static/js/787.dc9ee2bf.chunk.js": "/abhijitjadhav1998/portfolio/static/js/787.dc9ee2bf.chunk.js",
-    "static/media/sadak.png": "/abhijitjadhav1998/portfolio/static/media/sadak.c5a8ae3f5b8e8ab0d1c3.png",
-    "static/media/nalahotel.png": "/abhijitjadhav1998/portfolio/static/media/nalahotel.c80d973a3add67853860.png",
-    "static/media/alshifa.png": "/abhijitjadhav1998/portfolio/static/media/alshifa.266a10aff854d387e7bc.png",
-    "static/media/nansei.png": "/abhijitjadhav1998/portfolio/static/media/nansei.47b9a977c6fd1f699c0f.png",
-    "static/media/agami.png": "/abhijitjadhav1998/portfolio/static/media/agami.aca24f12e7c5d579d787.png",
-    "static/media/Agustina.woff": "/abhijitjadhav1998/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/hero.png": "/abhijitjadhav1998/portfolio/static/media/hero.6c88a9ef8f719f9e7c4e.png",
-    "static/media/about.png": "/abhijitjadhav1998/portfolio/static/media/about.c7dc71549af5bb52dc2e.png",
-    "static/media/admission.png": "/abhijitjadhav1998/portfolio/static/media/admission.a3aa2788ef7972522328.png",
-    "static/media/logo.svg": "/abhijitjadhav1998/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/abhijitjadhav1998/portfolio/index.html",
-    "main.d71eadac.css.map": "/abhijitjadhav1998/portfolio/static/css/main.d71eadac.css.map",
-    "main.31881337.js.map": "/abhijitjadhav1998/portfolio/static/js/main.31881337.js.map",
-    "787.dc9ee2bf.chunk.js.map": "/abhijitjadhav1998/portfolio/static/js/787.dc9ee2bf.chunk.js.map"
+    "main.css": "/static/css/main.5def0eb9.css",
+    "main.js": "/static/js/main.f239795d.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/Web Scrapper.gif": "/static/media/Web Scrapper.355b365606a7746bf9b4.gif",
+    "static/media/fakegif.gif": "/static/media/fakegif.8021455ac5fe123201d0.gif",
+    "static/media/stylized-image.png": "/static/media/stylized-image.e895f6062067b43ca562.png",
+    "static/media/cartoonize.jpg": "/static/media/cartoonize.7e2e00768bb70fa6d67f.jpg",
+    "static/media/Todos react app.jpg": "/static/media/Todos react app.3da073c0b753727c10dd.jpg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/hero.png": "/static/media/hero.6c88a9ef8f719f9e7c4e.png",
+    "static/media/about.png": "/static/media/about.c7dc71549af5bb52dc2e.png",
+    "static/media/robot-computer.jpg": "/static/media/robot-computer.6ae2200ced12bbbf2bd4.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.5def0eb9.css.map": "/static/css/main.5def0eb9.css.map",
+    "main.f239795d.js.map": "/static/js/main.f239795d.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d71eadac.css",
-    "static/js/main.31881337.js"
+    "static/css/main.5def0eb9.css",
+    "static/js/main.f239795d.js"
   ]
 }
