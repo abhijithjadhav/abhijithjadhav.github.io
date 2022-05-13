@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './Component/Home';
 import About from './Component/About';
@@ -8,8 +7,7 @@ import Portfolio from './Component/Portfolio';
 import Contact from './Component/Contact';
 import Footer from './Component/Footer';
 import Blogs from "./Component/Blogs";
-import sun from './img/sun.png';
-import moon from './img/moon.png';
+
 
 function App() {
   return (
