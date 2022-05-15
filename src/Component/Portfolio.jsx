@@ -60,7 +60,7 @@ function Portfolio() {
 							<div className='card mt-20'>
 								<img src={neural} className='card-img-top' alt='Al Shifa Ayush Hospital' />
 								<div className='card-body'>
-									<h5 className='card-title'>Neural Style transfer using- GG19  </h5>
+									<h5 className='card-title'>Neural Style transfer using- VGG19  </h5>
 									<a href='https://github.com/abhijitjadhav1998/Neural-Style-transfer-using-VGG19' target='_blank' className='btn btn-dark'><i className='uil uil-github'></i> Code </a>
 								</div>
 							</div>
