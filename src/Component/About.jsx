@@ -17,7 +17,7 @@ function About() {
 					</div>
 					<div className="col-12 col-lg-6">
 						<div className="about-content">
-							<p>Full Stack Java Developer with 1.5+ year of experience developing highly scalable Java applicaitons. </p>
+							<p>Full Stack Java Developer with 1.6+ year of experience developing highly scalable Java applicaitons. </p>
 							<p>Proficient in developing <strong>Full Stack Web applications using Java, SpringBoot, SpringMVC ,SpringCloud, Microservice. </strong>
 								Pursue good hands on knowledge of Java/J2EE  in analysis, design, implementation, integration, testing, and maintenance of applications.
 								Extensively worked with ERP with good knowledge of developing complex projects and good management skill of the deliverables.
@@ -25,7 +25,7 @@ function About() {
 							<div className="row">
 								<div className="col-md-12 col-lg-6">
 									<ul>
-										<li><i className="uil uil-bag-alt"></i> 1.5+ yr Experience</li>
+										<li><i className="uil uil-bag-alt"></i> 1.6+ yr Experience</li>
 									</ul>
 								</div>
 								<div className="col-md-12 col-lg-6">
