@@ -13,7 +13,7 @@ function Experience() {
                 <li>
                   <div className='icon'></div>
                   <span className='time'>Dec 2020 - Present</span>
-                  <h5>Full Stack Developer - <span className='place'>Accenture</span></h5>
+                  <h5>Application Development Analyst - <span className='place'>Accenture</span></h5>
                   <p>Pune</p>
                 </li>
               </ul>
@@ -27,7 +27,7 @@ function Experience() {
                 <li>
                   <div className='icon'></div>
                   <span className='time'>Jan 2019 - Jun 2019</span>
-                  <h5>Full Stack Developer Intern - <span className='place'>Persistent Systems</span></h5>
+                  <h5>Software Engineering Intern - <span className='place'>Persistent Systems</span></h5>
                   <p>Pune</p>
                 </li>
               </ul>

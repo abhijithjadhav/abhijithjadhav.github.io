@@ -30,6 +30,12 @@ const blogSection = {
       title: "Dockerise deepfake detection Django application using Nvidia Cuda",
       description: "Step by step process to Dockerise deepfake detection Django application using Nvidia Cuda"
     }
+    ,
+    {
+      url: "https://medium.com/@abhijithjadhav/list/java-tricky-interview-questions-ac7425b8d045",
+      title: "Java Tricky Interview Questions",
+      description: "Collections of all the java tricky interview questions"
+    }
 
 
   ]

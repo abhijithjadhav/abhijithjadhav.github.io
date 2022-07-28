@@ -70,11 +70,11 @@ function Home() {
                 steps={[
                   "Full Stack Java Developer",
                   1000,
-                  "Backend Java Developer",
-                  1000,
-                  "Content Writer",
+                  "Technical Blogger",
                   1000,
                   "AI Enthusiast",
+                  1000,
+                  "Backend Java Developer",
                   1000,
                 ]}
               />
