@@ -74,7 +74,9 @@ function Home() {
                   1000,
                   "AI Enthusiast",
                   1000,
-                  "Backend Java Developer",
+                  "Cloud Native Java Developer",
+                  1000,
+                  "API Engineering AWS",
                   1000,
                 ]}
               />
