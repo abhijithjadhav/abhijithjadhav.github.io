@@ -12,7 +12,17 @@ function Experience() {
               <ul>
                 <li>
                   <div className='icon'></div>
-                  <span className='time'>Dec 2020 - Present</span>
+                  <span className='time'>Sept 2022 - Present</span>
+                  <h5>BA3 Developer - <span className='place'>Barclays</span></h5>
+                  <p>Pune</p>
+                </li>
+              </ul>
+            </div>
+            <div className='exp-list'>
+              <ul>
+                <li>
+                  <div className='icon'></div>
+                  <span className='time'>Dec 2020 - Sept 2022</span>
                   <h5>Application Development Analyst - <span className='place'>Accenture</span></h5>
                   <p>Pune</p>
                 </li>
