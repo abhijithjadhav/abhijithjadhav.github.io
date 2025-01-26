@@ -68,7 +68,7 @@ function Home() {
               <Typical
                 loop={Infinity}
                 steps={[
-                  "Full Stack Java Developer",
+                  "Java AWS Developer",
                   1000,
                   "Technical Blogger",
                   1000,
@@ -76,7 +76,7 @@ function Home() {
                   1000,
                   "Cloud Native Java Developer",
                   1000,
-                  "API Engineering AWS",
+                  "AWS Developer",
                   1000,
                 ]}
               />
