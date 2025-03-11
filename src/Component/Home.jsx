@@ -82,17 +82,18 @@ function Home() {
               />
             </h1>
             <p className='pt-10 animate__animated animate__bounceInRight'>
-              A passionate Java Developer having an experience of building Full Stack Web Application...<br /><br />
-              Loves to solve real world problems with latest tech stack.
+              A passionate AWS Java Developer having an experience of building Scalable and latency sensitive cloud native applications...<br /><br />
+              Loves to solve real world problems with latest tech stack.<br /><br />
+              6X AWS Certified.
             </p>
             <div className="social-media-div">
 
-              <a href='https://www.linkedin.com/in/abhijitjadhav1998/' className="icon-button linkedin" target="_blank" rel="noopener noreferrer">
+              <a href='https://www.linkedin.com/in/abhijithjadhav/' className="icon-button linkedin" target="_blank" rel="noopener noreferrer">
                 <i className="uil-linkedin"></i>
                 <span></span>
               </a>
 
-              <a href='https://github.com/abhijitjadhav1998' className="icon-button github" target="_blank" rel="noopener noreferrer">
+              <a href='https://github.com/abhijithjadhav' className="icon-button github" target="_blank" rel="noopener noreferrer">
                 <i className="uil uil-github"></i>
                 <span></span>
               </a>
@@ -107,7 +108,7 @@ function Home() {
               </a>
             </div>
             <div>
-              <a href='https://drive.google.com/file/d/1g9ibIevUGWmW3Sh9gi9-jHUVR8BJFdkP/view?usp=sharing' target="_blank" className='learn-more animate__animated animate__bounceInUp'>
+              <a href='https://drive.google.com/file/d/1U_dgxwPoSrbfDRTTOETStY-5SZIFzppy/view?usp=sharing' target="_blank" className='learn-more animate__animated animate__bounceInUp'>
                 <span className='circle' aria-hidden='true'>
                   <span className='icon arrow'></span>
                 </span>

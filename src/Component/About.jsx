@@ -17,15 +17,14 @@ function About() {
 					</div>
 					<div className="col-12 col-lg-6">
 						<div className="about-content">
-							<p>Full Stack Java Developer with 2+ year of experience developing highly scalable Java applicaitons. </p>
-							<p>Proficient in developing <strong>Full Stack Web applications using Java, SpringBoot, SpringMVC ,SpringCloud, Microservice. </strong>
-								Pursue good hands on knowledge of Java/J2EE  in analysis, design, implementation, integration, testing, and maintenance of applications.
-								Extensively worked with ERP with good knowledge of developing complex projects and good management skill of the deliverables.
-							</p>
+							<p><strong>AWS Developer</strong> with 4+ years of experience specializing in designing and optimizing high-performance, scalable solutions. I have led key innovations, including enhancing Java Kinesis Client Library mechanisms for a <strong>5x performance boost</strong>  and implementing AWS Glue Jobs using PySpark, <strong>improving performance by 50%.</strong></p>
+							<p>My expertise lies in <strong>Java, SpringBoot, SpringMVC ,SpringCloud, Microservice , Python, and a wide array of AWS services like Lambda, ECS, Kinesis, and Glue.</strong> I am passionate about improving system performance, reducing costs, and crafting low-latency microservices. With <strong>6 AWS certifications</strong>, including AWS Certified DevOps Engineer Professional, I continuously push the boundaries of cloud technology.</p>
+							<p>Beyond my professional work, I actively contribute to <strong>open-source</strong> projects like DeepFake Video Detection (<strong>628+ stars</strong> on GitHub) and share insights on platforms like Medium.com. I thrive in cross-functional teams, delivering mission-critical solutions while maintaining high quality and performance standards.</p>
+							
 							<div className="row">
 								<div className="col-md-12 col-lg-6">
 									<ul>
-										<li><i className="uil uil-bag-alt"></i> 2+ yr Experience</li>
+										<li><i className="uil uil-bag-alt"></i> 4+ yr Experience</li>
 									</ul>
 								</div>
 								<div className="col-md-12 col-lg-6">
