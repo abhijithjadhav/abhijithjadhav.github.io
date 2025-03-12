@@ -6,8 +6,8 @@ function Footer() {
                 <div className='row'>
                     <div className='col-12 col-lg-6'>
                         <ul className='contact-social'>
-                            <li><a href='https://www.linkedin.com/in/abhijitjadhav1998/' target='_blank'><i className='uil uil-linkedin'></i></a></li>
-                            <li><a href='https://github.com/abhijitjadhav1998' target='_blank'><i className='uil uil-github'></i></a></li>
+                            <li><a href='https://www.linkedin.com/in/abhijithjadhav/' target='_blank'><i className='uil uil-linkedin'></i></a></li>
+                            <li><a href='https://github.com/abhijithjadhav' target='_blank'><i className='uil uil-github'></i></a></li>
                             <li><a href='mailto:abhijit.jadhav1998@gmail.com' target='_blank'><i className='uil uil-envelope-info'></i></a></li>
                             <li><a href='https://abhijithjadhav.medium.com/' target='_blank'><i className='uil uil-medium-m'></i></a></li>
                             <li><p className="footer-text">Made with ❤️ by Abhijit Jadhav</p></li>

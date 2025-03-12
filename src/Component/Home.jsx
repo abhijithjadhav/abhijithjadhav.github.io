@@ -46,7 +46,7 @@ function Home() {
                   <a className='nav-link' href='#blogs'><i className='uil  uil-book-reader'></i> Blogs</a>
                 </li>
                 <li className='nav-item'>
-                  <a className='nav-link' href='#contact'><i className='uil uil-calling'></i> Contact</a>
+                  <a className='nav-link' href='#certifications'><i className='uil uil-calling'></i> Certifications</a>
                 </li>
                 <li className='nav-item'>
                   <img src={moon} alt='' id='icon' />

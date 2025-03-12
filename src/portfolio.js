@@ -36,6 +36,18 @@ const blogSection = {
       title: "Java Tricky Interview Questions",
       description: "Collections of all the java tricky interview questions"
     }
+    ,
+    {
+      url: "https://medium.com/aws-in-plain-english/lambda-provisoned-concurrency-vs-snapstart-when-to-use-what-9736501e77a5",
+      title: "Lambda Provisoned Concurrency vs SnapStart — When to use what",
+      description: "Difference between Lambda Provisoned Concurrency vs SnapStart and when to use what"
+    }
+    ,
+    {
+      url: "https://medium.com/@abhijithjadhav/pyspark-docker-image-creation-and-run-pyspark-test-cases-65aba6ff8acc",
+      title: "PySpark Docker Image creation and run Pyspark test cases",
+      description: "Step by step process to create PySpark Docker Image and run Pyspark test cases"
+    }
 
 
   ]

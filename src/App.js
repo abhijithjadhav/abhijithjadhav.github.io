@@ -4,6 +4,7 @@ import About from './Component/About';
 import Experience from './Component/Experience';
 import Skills from './Component/Skills';
 import Portfolio from './Component/Portfolio';
+import Certifications from './Component/Certifications';
 import Contact from './Component/Contact';
 import Footer from './Component/Footer';
 import Blogs from "./Component/Blogs";
@@ -18,6 +19,7 @@ function App() {
       <Skills width='50%' />
       <Portfolio />
       <Blogs />
+      <Certifications />
       <Contact />
       <Footer />
     </div>
