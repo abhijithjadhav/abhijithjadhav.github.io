@@ -70,14 +70,13 @@ function Home() {
                 steps={[
                   "Java AWS Developer",
                   1000,
-                  "Technical Blogger",
+                  "AWS Developer",
                   1000,
                   "AI Enthusiast",
                   1000,
                   "Cloud Native Java Developer",
                   1000,
-                  "AWS Developer",
-                  1000,
+
                 ]}
               />
             </h1>
