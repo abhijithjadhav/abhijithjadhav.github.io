@@ -107,7 +107,7 @@ function Home() {
               </a>
             </div>
             <div>
-              <a href='https://drive.google.com/file/d/1U_dgxwPoSrbfDRTTOETStY-5SZIFzppy/view?usp=sharing' target="_blank" className='learn-more animate__animated animate__bounceInUp'>
+              <a href='https://drive.google.com/file/d/1suNxmcvXLNVQkGIe2ex6tSxaBDN_7cdm/view?usp=sharing' target="_blank" className='learn-more animate__animated animate__bounceInUp'>
                 <span className='circle' aria-hidden='true'>
                   <span className='icon arrow'></span>
                 </span>
